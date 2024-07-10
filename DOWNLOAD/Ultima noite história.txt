@@ -1,16 +1,18 @@
 Ultima noite:
-Jogo 3d - Godot 4 
+Jogo 3d - Godot 4 .NET
 Inspiração: Fears to Fathom
 
 		---HISTÓRIA---
 
-Você está em casa assistindo televisão. Quando o relógio marca meia-noite, você decide ir dormir.
+Você está em casa assistindo televisão. Quando bate meia-noite, você decide ir dormir.
 
-A caminho do quarto, você escuta barulhos estranhos do lado de fora da casa, mas ignora, pois está muito cansado.
+A caminho do quarto, você escuta barulhos estranhos do lado de fora da casa, mas ignora, pois você está com muito sono.
 
 Às 01:22 da manhã, você acorda com um pressentimento ruim. Logo depois, ouve o som de alguém tentando arrombar a porta. A pessoa consegue entrar.
 
-Com medo e tentando se defender, você tem três opções:
+E ai inicia o terror...
+
+Com medo e tentando sair vivo, você tem três opções:
 
 *Tentar sair de casa.
 *Se esconder.
