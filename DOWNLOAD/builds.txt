@@ -8,8 +8,12 @@
 
 0.3 - Player + Casa + Atalhos
 	O player e a casa foram adicionados, o ladrão já está sendo programado/configurado e atalhos adicionados.
-	Bugs: Câmera invade a textura da casa
+	Bugs: Câmera invade a textura da casa.
 
 0.4 - Gráficos + Áudio
-	Texturas melhoradas, áudio adicionado nas opções, musica em loop, shaders adicionados, comando z, tela de pause, e colisões corrigidas
-	Bugs: Câmera invade a textura da casa
+	Texturas melhoradas, áudio adicionado nas opções, musica em loop, shaders adicionados, comando z, tela de pause, e colisões corrigidas.
+	Bugs: Câmera invade a textura da casa.
+
+0.5 - Correção de bugs
+	Sliders de musica melhorados, códigos melhores, bug do mouse na tela de pause concertado.
+	Bugs: ???
