@@ -15,5 +15,5 @@
 	Bugs: Câmera invade a textura da casa.
 
 0.5 - Correção de bugs
-	Sliders de musica melhorados, códigos melhores, bug do mouse na tela de pause concertado.
+	Sliders de musica melhorados, musica própria ,códigos melhores, bug do mouse na tela de pause concertado.
 	Bugs: ???
