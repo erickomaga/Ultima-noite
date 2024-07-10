@@ -1,0 +1,15 @@
+0.1 - Menu + Ppções
+	Primeira versão do jogo.
+	Bugs: Ir em opções e quando apertar em jogar você não conseguia andar.
+
+0.2 - Opções
+	As opções foram atualizadas e agora estão funcionais.
+	Bugs: Nenhum.
+
+0.3 - Player + Casa 
+	O player e a casa foram adicionados e o ladrão já está sendo programado/configurado.
+	Bugs: Câmera invade a textura da casa
+
+0.4 - Ladrão + ???
+	Ladrão adicionado
+	Bugs: ???
