@@ -15,5 +15,7 @@
 	Bugs: Câmera invade a textura da casa.
 
 0.5.2 - Correção de bugs
-	Sliders de musica melhorados, musica própria ,códigos melhores, bug da câmera invadir textura da casa arrumado,bug do mouse na tela de pause concertado.
-	Bugs: ???
+	Sliders de musica melhorados, musica própria ,códigos melhores, bug da câmera invadir textura da casa arrumado ,bug do mouse na tela de pause concertado.
+	
+1.0.0 - Jogo base
+	Tela de créditos adicionada, cutscenes adicionadas, objetos adicionados, mais uma musica no jogo e melhoras na sensibilidade da câmera.
