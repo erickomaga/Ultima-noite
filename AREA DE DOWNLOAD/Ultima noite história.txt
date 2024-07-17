@@ -1,6 +1,6 @@
 Ultima noite:
 Jogo 3d - Godot 4 .NET
-Inspiração: Fears to Fathom
+Inspiração: Fears to Fathom e Granny
 
 		#---HISTÓRIA---#
 
@@ -12,8 +12,5 @@ A caminho do quarto, você escuta barulhos estranhos do lado de fora da casa, ma
 
 E ai inicia o terror...
 
-Com medo e tentando sair vivo, você tem três opções:
+Com medo e tentando sair vivo, você terá que pegar seus principais itens dentro de casa, como sua carteira, chaves, celular e o dispositivo de som da casa.
 
-*Tentar sair de casa.
-*Se esconder.
-*Tentar enfrentar o ladrão.
